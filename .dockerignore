@@ -1,0 +1,5 @@
+.env
+.gradle/
+.vscode/
+bin/
+target/
